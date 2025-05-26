@@ -1,6 +1,6 @@
 Lode Runner - Total Recall
 =======================================
-## (超級運動員 - 全面回憶)
+## Forked from [https://github.com/SimonHung/LodeRunner_TotalRecall](https://github.com/SimonHung/LodeRunner_TotalRecall)
 
 This program build with Javascript + [CreateJS](http://www.createjs.com).
 
