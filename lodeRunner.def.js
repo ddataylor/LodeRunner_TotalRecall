@@ -102,7 +102,8 @@ var ACT_UNKNOWN = -1, ACT_STOP = 0,
 	ACT_DIG_LEFT = 7, ACT_DIG_RIGHT = 8,
 	ACT_DIGGING  = 9, 
 	ACT_IN_HOLE  = 10, ACT_CLIMB_OUT = 11, 
-	ACT_REBORN = 12;
+	ACT_REBORN = 12,
+	ACT_DIG = 13;
 
 //value | Character | Type
 //------+-----------+-----------
