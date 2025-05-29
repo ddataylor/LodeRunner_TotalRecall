@@ -118,7 +118,7 @@ function moveRunner() {
       if (!(xOffset >= 0 && stayCurrPos)) moveStep = ACT_RIGHT;
       break;
     case ACT_DIG:
-      if (runner.shape == 'runLeft') {
+      if (runner.shape == 'runLeft' || runner.shape == 'barLeft') {
         keyAction = ACT_DIG_LEFT;
       } else {
         keyAction = ACT_DIG_RIGHT;
